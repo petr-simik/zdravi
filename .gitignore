@@ -1,0 +1,5 @@
+node_modules
+dist
+seed/*.json
+!seed/priklad.json
+*.local
